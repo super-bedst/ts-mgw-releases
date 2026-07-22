@@ -1,10 +1,10 @@
-# TS Mobile Gateway — Releases
+# Pager Alert Gateway — Releases
 
-Offentlige Windows-builds af **TeamScreen Mobile Gateway (TS-MGW)**.
+Offentlige Windows-builds af **Pager Alert Gateway (PAG)**.
 
-Gateway mellem MIB-11/alarmudkald og pagere. Kildekode er privat.
+Gateway mellem MIB-11/JSON-alarmer og Swissphone LTE-pagere. Kildekode er privat.
 
-Download `ts-mgw.exe` fra [Releases](https://github.com/super-bedst/ts-mgw-releases/releases).
+Download `pager-alert-gateway.exe` fra [Releases](https://github.com/super-bedst/ts-mgw-releases/releases).
 `latest.json` bruges af kontrolpanelet til opdaterings-tjek.
 
 Copyright © 2026 TeamScreen. Alle rettigheder forbeholdes.
