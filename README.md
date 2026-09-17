@@ -1,11 +1,14 @@
-# Pager Alert Gateway — Releases
+# Pager Alert Gateway -- Releases
 
 Offentlige Windows-builds af **Pager Alert Gateway (PAG)**.
 
-Gateway mellem MIB-11/JSON-alarmer og Swissphone LTE-pagere. Kildekode er privat.
+Kun **seneste** release holdes offentligt (sikkerheds-hardened builds).
 
-Download `pager-alert-gateway.exe` fra [Releases](https://github.com/super-bedst/ts-mgw-releases/releases).
-`latest.json` bruges af kontrolpanelet til opdaterings-tjek.
+- Download `pager-alert-gateway.exe` fra [Releases](https://github.com/super-bedst/ts-mgw-releases/releases)
+- `latest.json` bruges af kontrolpanelet til opdaterings-tjek
+- `nodered-pag-flow.json` -- Node-RED eksempel (Observer + udkald)
 
-Copyright © 2026 TeamScreen. Alle rettigheder forbeholdes.
-Brug kræver gyldig TeamScreen-licens (license.teamscreen.dk).
+Aeldre builds er fjernet fra det offentlige repo.
+
+Copyright (c) 2026 TeamScreen. Alle rettigheder forbeholdes.
+Brug kraever gyldig TeamScreen-licens (license.teamscreen.dk).
