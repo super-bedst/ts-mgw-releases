@@ -1,10 +1,10 @@
 {
   "name": "pager-alert-gateway",
-  "version": "1.7.8",
-  "buildDate": "2026-09-17T20:43:34.573Z",
-  "downloadUrl": "https://github.com/super-bedst/ts-mgw-releases/releases/download/v1.7.8/pager-alert-gateway.exe",
-  "sha256": "6027c5f471fbec63004442bdd7cb4f0219a120c8ceba9ede78f3c6b27d38c82e",
+  "version": "1.7.9",
+  "buildDate": "2026-10-04T11:44:54.575Z",
+  "downloadUrl": "https://github.com/super-bedst/ts-mgw-releases/releases/download/v1.7.9/pager-alert-gateway.exe",
+  "sha256": "10d91429a34cc61f8c648ee79b05824fe313f2086ead698f5200b8a8681b595d",
   "exeName": "pager-alert-gateway.exe",
   "repo": "https://github.com/super-bedst/ts-mgw-releases",
-  "notes": "Pager Alert Gateway v1.7.8"
+  "notes": "Pager Alert Gateway v1.7.9"
 }
